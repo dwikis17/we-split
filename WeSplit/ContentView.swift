@@ -1,9 +1,3 @@
-//
-//  ContentView.swift
-//  WeSplit
-//
-//  Created by Dwiki on 05/02/23.
-//
 
 import SwiftUI
 
