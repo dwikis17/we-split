@@ -21,7 +21,7 @@ struct ContentView: View {
                 }
                 Section{
                     TextField("Enter your name: ", text: $name)
-                    Text("Your name is  \(name)")
+                    Text("Your name iss  \(name)")
                 }
             }
             .navigationTitle("SwiftUI")
